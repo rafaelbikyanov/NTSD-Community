@@ -1,0 +1,60 @@
+
+__NTSD COMMUNITY EDITION__ 
+
+created by:
+Tyci
+Tobivv
+
+
+original NTSD TEAM:
+-zxcv11791 (leader, coder, sprites, stages)
+-konkisuke (backgrounds)
+-nave (coder, some sprites)
+-Zazz (coder, some sprites)
+-Krele (program coder)
+-kentaru-chou (cut scenes, some sprites)
+-Z (move-list maker) 
+-pimpen itachi (sound ripper)
+-ZXO (Spriter)
+
+
+Neora Engine by:
+Alkarter - developer of engine that was called PDK in LFF
+Drakken - Creating DLL-prototype
+Lord Silva - Rework of DLL for LF2 needs
+1477 - a lot of functions that i looks at for example and some of them even ported
+Surik - some things and help me for understanding ASM-logic
+Archer-Dante - rework of old DLL features and adding more new :)
+
+
+Credits:
+A Big Thanks to krele for creating the code tool
+Sprites:
+	-~gofanatix~ and Hardedge 
+	-Nick65 
+	-Zebas1 
+	-xandrarre 
+	-rock
+	-nestoruzumaki
+	-adirio77
+	-burningvegeta
+Transformation exe- Silva 
+
+
+Patched by
+Smouk, Fenix
+
+NTSD II Team:
+-Nave (leader, platform coding and HEX)
+-Silva, for the HUGE help in the process of creating NTSDII
+-Than long (Coder)
+-nickHD (Spriter)
+-Kembang (Base Sprites)
+-zebas1 (Spriter)
+-Quietus/Death_Dealer/NUS (Spriter)
+-ITACHI UCHIHA (Spriter)
+-ZXO (Sheeter and Spriter)
+-triviumninja (Spriter)
+-Keoto (Spriter)
+-Sir valkor (Spriter)
+-krele (Programmer, Code Tool)

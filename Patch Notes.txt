@@ -1,0 +1,93 @@
+SEASON 7 PATCH NOTES:
+
+
+General:
+-every character now starts with full chakra at start of battle
+-chakra regeneration isn't faster with lower hp anymore
+-Fire flame damage reduced
+-Explosion damage reduced and fixed hitbox
+-completely reworked Madara & Tsunade & Pain (Deva)
+-fixed chidori & rasengan clashes
+-reduced some characters' max hp to maintain balance and fun
+
+Naruto (Shippuuden):
+-increased rasengan range
+-kyuubi chakra regen speed increased
+-kyuubi running speed reduced
+Naruto (Young):
+-sexy jutsu reworked
+Sasuke (Hebi):
+-reduced chidori damage
+-cs2 transform no longer requires full chakra
+Sasuke (Taka):
+-new sounds
+Sakura:
+-reduced run attack damage
+Sai:
+-max health reduced to 450
+Rock Lee:
+-Primary Lotus(D>J) can now be defended against
+-max health reduced to 375
+Neji:
+-can now properly use hakke palm
+-reduced triple hakke palm damage
+-fixed defence animation
+Asuma:
+-reduced smoke cast time, reduced range and increased damage
+Shikamaru:
+-max health reduced to 450
+Kiba:
+-max health reduced to 400
+Shino:
+-max health reduced to 330
+Gaara:
+--max health reduced to 420
+Temari:
+-fixed defence animation
+Hiruko:
+-changed how transformation works- now has 250hp armor, transforms upon breaking it
+-max health reduced to 400
+Sasori:
+-reduced 3rd Kazekage basic attack damage
+-changed how Iron Needles work and swapped binds with Iron Cube
+Deidara:
+-fixed defence and fire animation
+Hidan:
+-max health reduced to 420
+Kakuzu:
+-reduced Double Lightning mana cost
+-made the monsters attacks weaker and reduced it's activation mana cost
+Pein:
+-summoning Peins now makes the other one dissapear first (finally)
+-shinra tensei changed
+-max health reduced to 400
+Pein (Deva):
+-complete rework
+Obito:
+-shuriken jutsu rework
+-chain jutsu rework
+-max health reduced to 420
+Minato:
+-Death Seal will now silence an opponent for 30 seconds, instead of stealing mana and doesn't deal dmg
+-can no longer spam dash (defence while running)
+-can no longer dash while falling
+-reduced rasengan damage
+-reduced marked kunai telepoort damage
+-max health reduced to 350
+Jirayia:
+-added Gamabunta Summon
+-added Sage Art: Goemon
+-improved Sage Rasengan and Sage Needles animation
+-reduced rasengan and double rasengan damage and increased cast time
+Tsunade:
+-complete rework
+Orochimaru:
+-added Curse Seal attack
+-removed Manda ground attack when switching sides
+-removed dodge (defence when injured)
+Haku:
+-max health reduced to 420
+Killerbee:
+-max health reduced to 400
+Madara:
+-complete rework
